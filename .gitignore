@@ -1,0 +1,10 @@
+# Ignore Python caches
+__pycache__/
+*.pyc
+
+# Ignore LaTeX build files
+*.aux
+*.log
+*.out
+*.gz
+*.pdf
